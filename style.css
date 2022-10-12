@@ -3,4 +3,5 @@ body
 	background-color: blue;
 	width: 100vh;
 	height: 100%;
+	border: 1px solid red;
 }
